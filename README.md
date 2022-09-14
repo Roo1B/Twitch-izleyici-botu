@@ -2,7 +2,7 @@
 
 #### Kutuların renk kodları
 
-⬛ - Instance is spawned.    🟨 - Instance is buffering.    🟩 - Instance is actively watching.
+⬛ - Örnek oluşturuldu.    🟨 - Örnek arabelleğe alınıyor.    🟩 - Örnek aktif olarak izliyor.
  
 #### Çalışma
 ![](docs/instances_spawning.gif)  
